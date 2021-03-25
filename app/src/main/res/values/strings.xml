@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExercicioPlayer</string>
+    <string name="play_btn">Play</string>
+    <string name="pause_btn">Pause</string>
+    <string name="stop_btn">Stop</string>
+    <string name="mediaplayer_end">O media player terminou a reprodução!</string>
+</resources>
